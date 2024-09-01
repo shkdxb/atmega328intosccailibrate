@@ -1,4 +1,4 @@
-//somewhere i have seend code i dont know thw auther
+//somewhere i have seen code credit to S. James Remington 3/2013
 // low power BCD RTC using bare bones ATMega328p, no regulator, 3-5V
 // update 3/1/2019
 // This code creates an RTC formed by Timer2 and a 32768 xtal+2x30 pF caps on OSC pins
